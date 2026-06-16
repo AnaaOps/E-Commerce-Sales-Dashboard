@@ -1,0 +1,2 @@
+-- Table creation script for master_dataset.
+-- Refer to the project report for the complete schema used during import.
