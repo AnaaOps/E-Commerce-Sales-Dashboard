@@ -26,7 +26,9 @@ This project presents an interactive Tableau dashboard for analyzing e-commerce 
 
 ## Dashboard Screenshot
 
-![Dashboard](dashboard.png)
+# Dashboard Preview
+
+![Dashboard](assets/Dashboard1.png)
 
 ## Live Dashboard
 
